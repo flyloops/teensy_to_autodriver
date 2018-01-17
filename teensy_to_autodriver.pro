@@ -1,4 +1,4 @@
-update=Wed 10 Jan 2018 02:46:23 PM PST
+update=Wed 17 Jan 2018 10:49:48 AM PST
 version=1
 last_client=kicad
 [pcbnew]
@@ -66,3 +66,4 @@ LibName34=pin_array_5x2
 LibName35=pin_array_3x2
 LibName36=pin_array_2x1
 LibName37=teensy3
+LibName38=pin_array_3x1
