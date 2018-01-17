@@ -1,0 +1,31 @@
+part       description                 vendor            PN                  QTY
+---------------------------------------------------------------------------------
+U1         14 pos female header       Digikey            S7012-ND             2
+U1         7 pos female header        Digikey            S7005-ND             2
+U1         5 pos female header        Digikey            S6103-ND             2
+J1         5x2 shrouded header        Digikey            S9169-ND             1
+J2         3x2 shrouded header        Digikey            732-5394-ND          1
+J3-J6      BNC Jack                   Digikey            A97555-ND            4 
+J7         3-pin header right angle   Digikey            S1111EC-03-ND        1
+
+
+Teensy + headers
+part       description                 vendor            PN                  QTY
+---------------------------------------------------------------------------------
+U1         Teensy3.2                  PJRC Electronics   Teensy 3.2           1
+U1         SMT header 2x7             Digikey            WM17453-ND           1        
+U1         break away header, 40-pos  Digikey            A26513-40-ND         1
+
+
+Ribbon cable connectors
+------------------------
+
+3x2  IDC connector   Digikey  732-5443-ND
+5x2  IDC connector   Digikey  S9306-ND
+
+
+Ribbon cable
+--------------
+
+10 conductor, 0.05" pitch Digikey AE10G-10-ND
+
