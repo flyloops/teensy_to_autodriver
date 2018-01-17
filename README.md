@@ -2,7 +2,7 @@
 A simple PCB for connecting the Teensy3.2 to the Sparkfun Autodriver.  
 
 * [Schematic (PDF)](teensy_to_autodriver.pdf)
-* [Bill-of-material](BOM.txt)
+* [Bill-of-materials](BOM.txt)
 
 # Top View: 
 ![top_view](images/teensy_to_autodriver_top.png)
